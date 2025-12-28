@@ -1,7 +1,7 @@
 # Skeleton-to-Light-OSC
 將人體骨架資料轉換為燈光控制數據的即時系統，透過 OSC 串接 TouchDesigner。
 
-1.解析字串 (Analysis.py) (track_2.py) 
+1.解析字串 (Analysis.py) (track_2.csv) 
 
 - 骨架資料形狀: (2657, 33, 3)
 
